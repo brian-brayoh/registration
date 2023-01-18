@@ -1,0 +1,24 @@
+body{
+  font-family: serif;
+  background-size: cover;
+  text-align:center;
+
+
+}
+form{
+  color:blind_param;
+  border: 5px dotted blue;
+  display: block;
+  margin-top: 10px;
+  display: block;
+
+}
+body h1{
+  color: blue;
+  display:inline-block;
+  text-align: center;
+}
+body footer{
+  color: red;
+
+}
